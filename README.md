@@ -45,6 +45,7 @@ UPI-Transaction-Analysis/
     ├── UPI_Transaction_Dashboard.pbix
     ├── Overview.png
     └── Summary.png
+
 ---
 
 ## Dataset
@@ -151,7 +152,7 @@ This project was completed collaboratively.
 - Power BI dashboard development
 - Data visualization and business insights
 
-### [Payal Borse]
+### Payal Borse
 - Data preparation and organization in Excel
 - Data cleaning and validation
 - Power BI dashboard development
