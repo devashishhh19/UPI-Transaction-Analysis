@@ -124,11 +124,11 @@ The analysis page contains:
 
 ### Page 1 – UPI Transaction Overview
 
-![UPI Transaction Overview](./PowerBI/overview-dashboard.png)
+![UPI Transaction Overview](./overview-dashboard.png)
 
 ### Page 2 – UPI Transaction Analysis
 
-![UPI Transaction Analysis](./PowerBI/summary-dashboard.png)
+![UPI Transaction Analysis](./summary-dashboard.png)
 ---
 
 ## Key Findings
@@ -172,10 +172,9 @@ Both team members contributed to the overall project development.
 ---
 
 ## Project Files
-- [SQL Analysis](./SQL/UPI_Transaction_Analysis.sql)
-- [Excel Dataset](./Data/Transaction_Cleaned.xlsx)
-- [Power BI Dashboard](./PowerBI/UPI_Transaction_Dashboard.pbix)
----
+- [SQL Analysis](./UPI_Transaction_Analysis.sql)
+- [Excel Dataset](./UPI_Transaction_Analysis.xlsx)
+- [Power BI Dashboard](./UPI%20Transaction%20Analysis.pbix)
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow,
